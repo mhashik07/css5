@@ -1,0 +1,38 @@
+
+.contener{
+    height: 1000PX;
+    width: 500PX;
+    background-color: slategray;
+    margin: 10px;
+    position: relative;
+    }
+.fist{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    
+    position: fixed;
+}
+.secend{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left:  50px;
+    top: 50px;
+   
+
+}
+.third{
+    background-color: hotpink;
+    height: 100px;
+    width: 100PX;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    
+}
+.secend:hover{
+    background-color:blue;
+}
+
